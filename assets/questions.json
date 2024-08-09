@@ -1,0 +1,673 @@
+[
+    {
+      "questionText": "Apa lapisan atmosfer terdekat dengan permukaan bumi?",
+      "options": ["Stratosfer", "Troposfer", "Mesosfer", "Termosfer"],
+      "correctOptionIndex": 1
+    },
+    {
+      "questionText": "Apa yang dimaksud dengan fenomena La Niña?",
+      "options": [
+        "Pendinginan suhu laut di Samudra Pasifik",
+        "Pemanasan suhu laut di Samudra Pasifik",
+        "Pengurangan tekanan udara di atas Asia",
+        "Peningkatan aktivitas badai tropis"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Apa yang mengukur kelembaban udara?",
+      "options": ["Higrometer", "Barometer", "Termometer", "Anemometer"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Fenomena cuaca apakah yang menyebabkan suhu global meningkat?",
+      "options": ["Efek rumah kaca", "Efek Coriolis", "La Niña", "Albedo"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "Apa yang menjadi penyebab utama angin kencang di gurun?",
+      "options": ["Tekanan udara rendah", "Tekanan udara tinggi", "Pasir panas", "Kelembaban rendah"],
+      "correctOptionIndex": 1
+    },
+      {
+          "questionText": "Apa nama instrumen yang digunakan untuk mengukur tekanan udara?",
+          "options": ["Barometer", "Termometer", "Anemometer", "Higrometer"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Lapisan atmosfer mana yang paling banyak mengandung ozon?",
+          "options": ["Stratosfer", "Troposfer", "Mesosfer", "Termosfer"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menggerakkan arus laut utama di seluruh dunia?",
+          "options": ["Angin", "Suhu laut", "Kerapatan air", "Gravitasi"],
+          "correctOptionIndex": 2
+      },
+      {
+          "questionText": "Apa nama angin yang terjadi akibat perbedaan tekanan antara dua tempat?",
+          "options": ["Angin laut", "Angin darat", "Angin muson", "Angin gradient"],
+          "correctOptionIndex": 3
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan siklon tropis?",
+          "options": [
+              "Sistem tekanan rendah dengan angin kuat",
+              "Sistem tekanan tinggi dengan angin kuat",
+              "Sistem tekanan rendah dengan suhu rendah",
+              "Sistem tekanan tinggi dengan suhu tinggi"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan hujan asam?",
+          "options": ["Polusi udara", "Aktivitas vulkanik", "Aliran sungai", "Deforestasi"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa nama angin yang bertiup dari kutub menuju khatulistiwa?",
+          "options": ["Angin barat", "Angin timur", "Angin pasat", "Angin muson"],
+          "correctOptionIndex": 2
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan titik embun?",
+          "options": [
+              "Suhu dimana udara menjadi jenuh dan kondensasi terjadi",
+              "Titik tertinggi dalam atmosfer",
+              "Suhu maksimum yang dapat dicapai udara",
+              "Kelembaban relatif udara"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan fenomena Aurora?",
+          "options": [
+              "Partikel bermuatan dari matahari yang berinteraksi dengan atmosfer bumi",
+              "Pembiasan cahaya oleh kristal es di atmosfer",
+              "Pembakaran meteoroid di atmosfer",
+              "Pembiasan cahaya oleh air di atmosfer"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Fenomena apakah yang menyebabkan munculnya kabut?",
+          "options": ["Pendinginan udara", "Pemanasan udara", "Kelembaban rendah", "Angin kencang"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan monsoon?",
+          "options": [
+              "Angin musiman yang membawa hujan lebat",
+              "Angin yang terjadi di daerah pegunungan",
+              "Angin kencang yang terjadi di gurun",
+              "Angin yang bertiup dari laut ke darat"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa penyebab utama dari badai petir?",
+          "options": [
+              "Perbedaan suhu antara dua massa udara",
+              "Hujan es yang membeku di atmosfer",
+              "Gerakan vertikal udara yang cepat",
+              "Pemanasan permukaan bumi"
+          ],
+          "correctOptionIndex": 2
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan efek Coriolis?",
+          "options": [
+              "Pembelokan arah angin akibat rotasi bumi",
+              "Peningkatan suhu global",
+              "Pergeseran musim akibat perubahan iklim",
+              "Kenaikan permukaan laut akibat pencairan es"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan angin darat?",
+          "options": [
+              "Pendinginan daratan di malam hari",
+              "Pemanasan daratan di siang hari",
+              "Perbedaan tekanan antara darat dan laut",
+              "Kelembaban rendah di darat"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan inversi suhu?",
+          "options": [
+              "Kondisi dimana suhu meningkat dengan ketinggian",
+              "Kondisi dimana suhu menurun dengan ketinggian",
+              "Kondisi dimana suhu tetap konstan dengan ketinggian",
+              "Kondisi dimana suhu meningkat dengan kedalaman"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang terjadi pada tekanan udara saat ketinggian meningkat?",
+          "options": ["Tekanan menurun", "Tekanan meningkat", "Tekanan tetap sama", "Tekanan berubah secara acak"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan albedo?",
+          "options": [
+              "Persentase radiasi matahari yang dipantulkan oleh permukaan",
+              "Proses penyerapan radiasi oleh atmosfer",
+              "Proses pemanasan oleh radiasi matahari",
+              "Peningkatan suhu global akibat gas rumah kaca"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan efek rumah kaca?",
+          "options": [
+              "Pemanasan atmosfer bumi akibat gas-gas yang menjebak panas",
+              "Pendinginan atmosfer bumi akibat radiasi keluar",
+              "Pemanasan permukaan bumi oleh radiasi matahari",
+              "Peningkatan suhu global akibat pencairan es"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan terjadinya badai salju?",
+          "options": [
+              "Sistem tekanan rendah yang kuat",
+              "Sistem tekanan tinggi yang kuat",
+              "Peningkatan suhu permukaan laut",
+              "Penurunan kelembaban udara"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa penyebab utama terjadinya banjir bandang?",
+          "options": ["Curah hujan yang sangat tinggi", "Angin kencang", "Tekanan udara rendah", "Suhu tinggi"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan tropopausa?",
+          "options": [
+              "Batas antara troposfer dan stratosfer",
+              "Batas antara stratosfer dan mesosfer",
+              "Batas antara mesosfer dan termosfer",
+              "Batas antara atmosfer dan luar angkasa"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan kabut radiasi?",
+          "options": [
+              "Pendinginan permukaan bumi pada malam hari",
+              "Pemanasan permukaan bumi pada siang hari",
+              "Kelembaban tinggi pada siang hari",
+              "Angin kencang di malam hari"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang terjadi pada angin saat melewati pegunungan?",
+          "options": [
+              "Angin meningkat kecepatannya",
+              "Angin menurun kecepatannya",
+              "Angin berubah arah",
+              "Angin tetap konstan"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan awan cumulonimbus?",
+          "options": [
+              "Awan besar yang sering menyebabkan badai petir",
+              "Awan tipis yang terbentuk di ketinggian tinggi",
+              "Awan rendah yang sering menyebabkan kabut",
+              "Awan yang terbentuk di daerah kutub"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa penyebab utama terjadinya kekeringan?",
+          "options": ["Curah hujan rendah dalam waktu lama", "Curah hujan tinggi dalam waktu singkat", "Kelembaban tinggi", "Tekanan udara tinggi"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan titik beku?",
+          "options": [
+              "Suhu dimana air membeku menjadi es",
+              "Suhu dimana udara menjadi jenuh",
+              "Suhu maksimum yang dapat dicapai oleh air",
+              "Suhu dimana salju mencair menjadi air"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan terjadinya pelangi?",
+          "options": [
+              "Pembiasan dan pemantulan cahaya oleh tetesan air di atmosfer",
+              "Pembiasan cahaya oleh kristal es di atmosfer",
+              "Pemantulan cahaya oleh awan",
+              "Pembakaran meteoroid di atmosfer"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan gelombang panas?",
+          "options": [
+              "Periode suhu tinggi yang berkelanjutan",
+              "Periode suhu rendah yang berkelanjutan",
+              "Periode hujan lebat yang berkelanjutan",
+              "Periode kelembaban tinggi yang berkelanjutan"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa penyebab utama dari badai pasir?",
+          "options": ["Angin kencang di daerah gurun", "Kelembaban tinggi", "Tekanan udara rendah", "Curah hujan tinggi"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan dew point?",
+          "options": [
+              "Suhu dimana udara menjadi jenuh dan kondensasi terjadi",
+              "Titik tertinggi dalam atmosfer",
+              "Suhu maksimum yang dapat dicapai oleh air",
+              "Kelembaban relatif udara"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan hujan orografis?",
+          "options": [
+              "Udara lembab yang dipaksa naik oleh pegunungan",
+              "Udara kering yang dipaksa turun oleh pegunungan",
+              "Pembentukan awan di daerah dataran rendah",
+              "Pemanasan permukaan laut oleh matahari"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan jet stream?",
+          "options": [
+              "Aliran udara cepat di ketinggian tinggi",
+              "Aliran udara lambat di permukaan bumi",
+              "Aliran laut yang cepat",
+              "Gelombang yang terjadi di atmosfer"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan stratosfer?",
+          "options": [
+              "Lapisan atmosfer di atas troposfer",
+              "Lapisan atmosfer di atas mesosfer",
+              "Lapisan atmosfer di bawah troposfer",
+              "Lapisan atmosfer di bawah termosfer"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan inversi suhu?",
+          "options": [
+              "Kondisi dimana suhu meningkat dengan ketinggian",
+              "Kondisi dimana suhu menurun dengan ketinggian",
+              "Kondisi dimana suhu tetap konstan dengan ketinggian",
+              "Kondisi dimana suhu meningkat dengan kedalaman"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa penyebab utama terjadinya angin topan?",
+          "options": ["Sistem tekanan rendah di daerah tropis", "Sistem tekanan tinggi di daerah kutub", "Peningkatan suhu permukaan laut", "Penurunan kelembaban udara"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan terjadinya awan lenticularis?",
+          "options": [
+              "Udara lembab yang dipaksa naik oleh pegunungan",
+              "Udara kering yang dipaksa turun oleh pegunungan",
+              "Pembentukan awan di daerah dataran rendah",
+              "Pemanasan permukaan laut oleh matahari"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan tekanan atmosfer?",
+          "options": [
+              "Gaya yang diberikan oleh udara pada suatu titik di permukaan bumi",
+              "Tekanan yang terjadi di dalam awan",
+              "Gaya yang diberikan oleh air pada suatu titik di laut",
+              "Tekanan yang terjadi di dalam lapisan ozon"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan terjadinya badai salju?",
+          "options": [
+              "Sistem tekanan rendah yang kuat",
+              "Sistem tekanan tinggi yang kuat",
+              "Peningkatan suhu permukaan laut",
+              "Penurunan kelembaban udara"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa penyebab utama terjadinya banjir bandang?",
+          "options": ["Curah hujan yang sangat tinggi", "Angin kencang", "Tekanan udara rendah", "Suhu tinggi"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan tropopausa?",
+          "options": [
+              "Batas antara troposfer dan stratosfer",
+              "Batas antara stratosfer dan mesosfer",
+              "Batas antara mesosfer dan termosfer",
+              "Batas antara atmosfer dan luar angkasa"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan kabut radiasi?",
+          "options": [
+              "Pendinginan permukaan bumi pada malam hari",
+              "Pemanasan permukaan bumi pada siang hari",
+              "Kelembaban tinggi pada siang hari",
+              "Angin kencang di malam hari"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang terjadi pada angin saat melewati pegunungan?",
+          "options": [
+              "Angin meningkat kecepatannya",
+              "Angin menurun kecepatannya",
+              "Angin berubah arah",
+              "Angin tetap konstan"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan awan cumulonimbus?",
+          "options": [
+              "Awan besar yang sering menyebabkan badai petir",
+              "Awan tipis yang terbentuk di ketinggian tinggi",
+              "Awan rendah yang sering menyebabkan kabut",
+              "Awan yang terbentuk di daerah kutub"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa penyebab utama terjadinya kekeringan?",
+          "options": ["Curah hujan rendah dalam waktu lama", "Curah hujan tinggi dalam waktu singkat", "Kelembaban tinggi", "Tekanan udara tinggi"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan titik beku?",
+          "options": [
+              "Suhu dimana air membeku menjadi es",
+              "Suhu dimana udara menjadi jenuh",
+              "Suhu maksimum yang dapat dicapai oleh air",
+              "Suhu dimana salju mencair menjadi air"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan terjadinya pelangi?",
+          "options": [
+              "Pembiasan dan pemantulan cahaya oleh tetesan air di atmosfer",
+              "Pembiasan cahaya oleh kristal es di atmosfer",
+              "Pemantulan cahaya oleh awan",
+              "Pembakaran meteoroid di atmosfer"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan gelombang panas?",
+          "options": [
+              "Periode suhu tinggi yang berkelanjutan",
+              "Periode suhu rendah yang berkelanjutan",
+              "Periode hujan lebat yang berkelanjutan",
+              "Periode kelembaban tinggi yang berkelanjutan"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa penyebab utama dari badai pasir?",
+          "options": ["Angin kencang di daerah gurun", "Kelembaban tinggi", "Tekanan udara rendah", "Curah hujan tinggi"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan dew point?",
+          "options": [
+              "Suhu dimana udara menjadi jenuh dan kondensasi terjadi",
+              "Titik tertinggi dalam atmosfer",
+              "Suhu maksimum yang dapat dicapai oleh air",
+              "Kelembaban relatif udara"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan hujan orografis?",
+          "options": [
+              "Udara lembab yang dipaksa naik oleh pegunungan",
+              "Udara kering yang dipaksa turun oleh pegunungan",
+              "Pembentukan awan di daerah dataran rendah",
+              "Pemanasan permukaan laut oleh matahari"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan jet stream?",
+          "options": [
+              "Aliran udara cepat di ketinggian tinggi",
+              "Aliran udara lambat di permukaan bumi",
+              "Aliran laut yang cepat",
+              "Gelombang yang terjadi di atmosfer"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan stratosfer?",
+          "options": [
+              "Lapisan atmosfer di atas troposfer",
+              "Lapisan atmosfer di atas mesosfer",
+              "Lapisan atmosfer di bawah troposfer",
+              "Lapisan atmosfer di bawah termosfer"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan inversi suhu?",
+          "options": [
+              "Kondisi dimana suhu meningkat dengan ketinggian",
+              "Kondisi dimana suhu menurun dengan ketinggian",
+              "Kondisi dimana suhu tetap konstan dengan ketinggian",
+              "Kondisi dimana suhu meningkat dengan kedalaman"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa penyebab utama terjadinya angin topan?",
+          "options": ["Sistem tekanan rendah di daerah tropis", "Sistem tekanan tinggi di daerah kutub", "Peningkatan suhu permukaan laut", "Penurunan kelembaban udara"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan terjadinya awan lenticularis?",
+          "options": [
+              "Udara lembab yang dipaksa naik oleh pegunungan",
+              "Udara kering yang dipaksa turun oleh pegunungan",
+              "Pembentukan awan di daerah dataran rendah",
+              "Pemanasan permukaan laut oleh matahari"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan tekanan atmosfer?",
+          "options": [
+              "Gaya yang diberikan oleh udara pada suatu titik di permukaan bumi",
+              "Tekanan yang terjadi di dalam awan",
+              "Gaya yang diberikan oleh air pada suatu titik di laut",
+              "Tekanan yang terjadi di dalam lapisan ozon"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan terjadinya badai salju?",
+          "options": [
+              "Sistem tekanan rendah yang kuat",
+              "Sistem tekanan tinggi yang kuat",
+              "Peningkatan suhu permukaan laut",
+              "Penurunan kelembaban udara"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa penyebab utama terjadinya banjir bandang?",
+          "options": ["Curah hujan yang sangat tinggi", "Angin kencang", "Tekanan udara rendah", "Suhu tinggi"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan tropopausa?",
+          "options": [
+              "Batas antara troposfer dan stratosfer",
+              "Batas antara stratosfer dan mesosfer",
+              "Batas antara mesosfer dan termosfer",
+              "Batas antara atmosfer dan luar angkasa"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan kabut radiasi?",
+          "options": [
+              "Pendinginan permukaan bumi pada malam hari",
+              "Pemanasan permukaan bumi pada siang hari",
+              "Kelembaban tinggi pada siang hari",
+              "Angin kencang di malam hari"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang terjadi pada angin saat melewati pegunungan?",
+          "options": [
+              "Angin meningkat kecepatannya",
+              "Angin menurun kecepatannya",
+              "Angin berubah arah",
+              "Angin tetap konstan"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan awan cumulonimbus?",
+          "options": [
+              "Awan besar yang sering menyebabkan badai petir",
+              "Awan tipis yang terbentuk di ketinggian tinggi",
+              "Awan rendah yang sering menyebabkan kabut",
+              "Awan yang terbentuk di daerah kutub"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa penyebab utama terjadinya kekeringan?",
+          "options": ["Curah hujan rendah dalam waktu lama", "Curah hujan tinggi dalam waktu singkat", "Kelembaban tinggi", "Tekanan udara tinggi"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan titik beku?",
+          "options": [
+              "Suhu dimana air membeku menjadi es",
+              "Suhu dimana udara menjadi jenuh",
+              "Suhu maksimum yang dapat dicapai oleh air",
+              "Suhu dimana salju mencair menjadi air"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan terjadinya pelangi?",
+          "options": [
+              "Pembiasan dan pemantulan cahaya oleh tetesan air di atmosfer",
+              "Pembiasan cahaya oleh kristal es di atmosfer",
+              "Pemantulan cahaya oleh awan",
+              "Pembakaran meteoroid di atmosfer"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan gelombang panas?",
+          "options": [
+              "Periode suhu tinggi yang berkelanjutan",
+              "Periode suhu rendah yang berkelanjutan",
+              "Periode hujan lebat yang berkelanjutan",
+              "Periode kelembaban tinggi yang berkelanjutan"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa penyebab utama dari badai pasir?",
+          "options": ["Angin kencang di daerah gurun", "Kelembaban tinggi", "Tekanan udara rendah", "Curah hujan tinggi"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan dew point?",
+          "options": [
+              "Suhu dimana udara menjadi jenuh dan kondensasi terjadi",
+              "Titik tertinggi dalam atmosfer",
+              "Suhu maksimum yang dapat dicapai oleh air",
+              "Kelembaban relatif udara"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan hujan orografis?",
+          "options": [
+              "Udara lembab yang dipaksa naik oleh pegunungan",
+              "Udara kering yang dipaksa turun oleh pegunungan",
+              "Pembentukan awan di daerah dataran rendah",
+              "Pemanasan permukaan laut oleh matahari"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan jet stream?",
+          "options": [
+              "Aliran udara cepat di ketinggian tinggi",
+              "Aliran udara lambat di permukaan bumi",
+              "Aliran laut yang cepat",
+              "Gelombang yang terjadi di atmosfer"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan stratosfer?",
+          "options": [
+              "Lapisan atmosfer di atas troposfer",
+              "Lapisan atmosfer di atas mesosfer",
+              "Lapisan atmosfer di bawah troposfer",
+              "Lapisan atmosfer di bawah termosfer"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang dimaksud dengan inversi suhu?",
+          "options": [
+              "Kondisi dimana suhu meningkat dengan ketinggian",
+              "Kondisi dimana suhu menurun dengan ketinggian",
+              "Kondisi dimana suhu tetap konstan dengan ketinggian",
+              "Kondisi dimana suhu meningkat dengan kedalaman"
+          ],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa penyebab utama terjadinya angin topan?",
+          "options": ["Sistem tekanan rendah di daerah tropis", "Sistem tekanan tinggi di daerah kutub", "Peningkatan suhu permukaan laut", "Penurunan kelembaban udara"],
+          "correctOptionIndex": 0
+      },
+      {
+          "questionText": "Apa yang menyebabkan terjadinya awan lenticularis?",
+          "options": [
+              "Udara lembab yang dipaksa naik oleh pegunungan",
+              "Udara kering yang dipaksa turun oleh pegunungan",
+              "Pembentukan awan di daerah dataran rendah",
+              "Pemanasan permukaan laut oleh matahari"
+          ],
+          "correctOptionIndex": 0
+      }
+  ]
+  
